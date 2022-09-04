@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.JAXB"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.UnreachableBeginNode"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.Unmarshaller"/>
+    <fullyQualifiedTypeName name="java.io.StringReader"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.JAXBContext"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.Marshaller"/>
+    <fullyQualifiedTypeName name="java.io.StringWriter"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlType"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.BasicConfigurator"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.Content"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="org.apache.activemq.broker.Connection"/>
+    <fullyQualifiedTypeName name="javax.jms.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.apache.activemq.broker.region.Destination"/>
+    <fullyQualifiedTypeName name="javax.jms.Destination"/>
+    <fullyQualifiedTypeName name="javax.jms.Connection"/>
+    <fullyQualifiedTypeName name="javax.jms.Session"/>
+    <fullyQualifiedTypeName name="javax.jms.MessageProducer"/>
+    <fullyQualifiedTypeName name="javax.jms.Message"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="data.Person"/>
+    <fullyQualifiedTypeName name="helper.XMLConvert"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>
